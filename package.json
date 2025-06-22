@@ -1,5 +1,5 @@
 {
-  "name": "Meliods MD",
+  "name": "Meliods-MD",
   "version": "0.0.5",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
